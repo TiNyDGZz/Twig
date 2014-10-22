@@ -1,0 +1,15 @@
+{
+    "name": "tinydgzz/a2",
+    "description": "My First Twig Engine Biatch",
+    "license": "MIT",
+    "require": {
+        "twig/twig": "1.16.*"
+    },
+    "authors": [
+        {
+            "name": "TiNyDGZz",
+            "email": "adrien.louge@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
